@@ -1,7 +1,7 @@
 # WhatsApp Chat to Excel Converter for Tree Surveys
 
 ## Overview
-This project presents a tool for converting WhatsApp chat data into structured Excel files, specifically tailored for tree surveys. It focuses on organizing data about tree species, their height, and trunk measurements.
+This project provides a tool for converting WhatsApp chat data into structured Excel files, specifically tailored for tree surveys. It is designed to organize data about tree species, their heights, and trunk measurements. The entire project is contained in an IPython Notebook (ipynb), making it versatile and user-friendly. You can run it in various environments that support IPython notebooks, such as Google Colab, Anaconda, or Jupyter Notebook. This flexibility allows for easy execution and adaptation of the tool in different settings, catering to a wide range of user preferences and technical setups.
 
 ## How to Use
 1. **Create a WhatsApp Group:** For example, a group named "Medidas".
